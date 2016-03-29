@@ -1,0 +1,1 @@
+# NewWebView 封装了WKWebView 与 UIWebView,仿照微信的样式，具有进度条，退后返回，图片放大，禁止链接转跳等功能，这个只是简单的例子，更多信息请查看博客actvoc.com
